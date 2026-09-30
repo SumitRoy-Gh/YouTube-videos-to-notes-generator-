@@ -1,0 +1,6 @@
+youtube-transcript-api
+yt-dlp
+python-dotenv
+langchain-core
+langchain-groq
+crewai[litellm]
